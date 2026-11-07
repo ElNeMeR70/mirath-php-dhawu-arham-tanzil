@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/mirath-php-dhawu-arham-tanzil",
+  "description": "Dhawu Al-Arham Extended Relatives Inheritance Solver (Ahl Al-Tanzil & Ahl Al-Qarabah) (حاسبة توريث ذوي الأرحام على مذهب أهل التنزيل والقرابة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
